@@ -23,7 +23,7 @@ const FirstPage = () => {
               </p>
               <a
                 className="inline-block primary-btn "
-                href="mailto:Tq6cM@example.com"
+                href="arunkumarame04@gmail.com"
               >
                 {" "}
                 Hire me
